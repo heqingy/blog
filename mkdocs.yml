@@ -1,0 +1,22 @@
+site_name: Heqing's Blog
+theme:
+  name: material
+  language: zh
+  custom_dir: overrides
+  features:
+    - header.autohide
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.annotate
+
+plugins:
+  - search
+  - blog:
+      blog_dir: .
+
+nav:
+  - 博客: index.md
+
