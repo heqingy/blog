@@ -2,7 +2,9 @@
 date:
   created: 2024-12-14
 categories:
-    - 哲学
+    - Philosophy
+    - Tech
+    - Life
 comments: true
 ---
 
